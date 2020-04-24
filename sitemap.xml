@@ -1,51 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://makobot-hauv.github.io/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://makobot-hauv.github.io/quickstart/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://makobot-hauv.github.io/bom/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://makobot-hauv.github.io/hardware/robot_modifications/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <loc>https://makobot-hauv.github.io/hardware/hardware_modifications/</loc>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://makobot-hauv.github.io/hardware/wiring/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <loc>https://makobot-hauv.github.io/hardware/manufacturing/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/primary-module/primary-module-mod/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/primary-module/primary-module-assem/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/power-module/power-module-mfg/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/power-module/power-module-assem/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/aux-module/aux-module-mfg/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/aux-module/aux-module-assem/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/camera-modules/camera-module-mfg/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/camera-modules/camera-module-assem/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/assembly/assembly/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/assembly/wiring/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/hardware/testing/</loc>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://makobot-hauv.github.io/software/software/</loc>
-     <lastmod>2020-04-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://makobot-hauv.github.io/software/ros_installation/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://makobot-hauv.github.io/software/networking/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://makobot-hauv.github.io/software/fitlet_installation/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <loc>https://makobot-hauv.github.io/software/cameraconfig/</loc>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://makobot-hauv.github.io/software/jetson_installation/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <loc>https://makobot-hauv.github.io/software/topside/</loc>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://makobot-hauv.github.io/simulation/simulations/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://makobot-hauv.github.io/field-testing/field_testing/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/diver-rig/diver-rig/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/diver-rig/bom/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/diver-rig/mfg/</loc>
+     <lastmod>2020-04-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://makobot-hauv.github.io/diver-rig/assem/</loc>
+     <lastmod>2020-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
